@@ -1,0 +1,13 @@
+.oculto{
+	display: none;
+}
+
+.visto{
+    display: block;
+}
+
+.fondoError {
+    border-style: solid;
+    border-color: red;
+  }
+  
